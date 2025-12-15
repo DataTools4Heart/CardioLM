@@ -1,0 +1,3 @@
+[submodule "CardioNER"]
+	path = CardioNER
+	url = https://github.com/DataTools4Heart/CardioNER
