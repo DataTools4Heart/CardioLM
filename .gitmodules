@@ -4,3 +4,6 @@
 [submodule "lm-pseudoperplexity-evaluation"]
 	path = lm-pseudoperplexity-evaluation
 	url = https://github.com/DataTools4Heart/lm-pseudoperplexity-evaluation
+[submodule "CPT"]
+	path = CPT
+	url = https://github.com/nlp4bia-bsc/TransCPT
