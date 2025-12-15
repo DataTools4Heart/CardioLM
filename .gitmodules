@@ -1,3 +1,6 @@
 [submodule "CardioNER"]
 	path = CardioNER
 	url = https://github.com/DataTools4Heart/CardioNER
+[submodule "lm-pseudoperplexity-evaluation"]
+	path = lm-pseudoperplexity-evaluation
+	url = https://github.com/DataTools4Heart/lm-pseudoperplexity-evaluation
